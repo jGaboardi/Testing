@@ -1,0 +1,12 @@
+
+145
+"ID",I,1,4,0,10,0,,"","",,"Blank",
+"STATEFP",C,5,2,0,2,0,,"","",,"Blank",
+"COUNTYFP",C,7,3,0,3,0,,"","",,"Blank",
+"TRACTCE",C,10,6,0,6,0,,"","",,"Blank",
+"BLKGRPCE",C,16,1,0,1,0,,"","",,"Blank",
+"AFFGEOID",C,17,21,0,21,0,,"","",,"Blank",
+"GEOID",C,38,12,0,12,0,,"","",,"Blank",
+"GEO.id",C,50,23,0,23,0,,"","",,"Blank",
+"GEO.display-label",C,73,69,0,69,0,,"","",,"Blank",
+"Population",I,142,4,0,11,0,,"","",,"Blank",

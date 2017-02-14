@@ -1,0 +1,17 @@
+
+156
+"ID",I,1,4,0,4,0,,"","",,"Blank",
+"Speed",I,5,4,0,12,0,,"","",,"Blank",
+"TravTime",R,9,8,0,10,8,,"","",,"Blank",
+"NAME",C,17,35,0,35,0,,"","",,"Blank",
+"ALTERNATE NAME",C,52,35,0,35,0,,"","",,"Blank",
+"CLASS",C,87,4,0,4,0,,"","",,"Blank",
+"LEFT ZIP",I,91,4,0,12,0,,"","",,"Blank",
+"RIGHT ZIP",I,95,4,0,12,0,,"","",,"Blank",
+"START LEFT",I,99,4,0,12,0,,"","",,"Blank",
+"END LEFT",I,103,4,0,12,0,,"","",,"Blank",
+"START RIGHT",I,107,4,0,12,0,,"","",,"Blank",
+"END RIGHT",I,111,4,0,12,0,,"","",,"Blank",
+"PARITY",S,115,2,0,7,0,,"","",,"Blank",
+"Number",C,117,5,0,5,0,,"","",,"Blank",
+"Label",C,122,35,0,35,0,,"","",,"Blank",
